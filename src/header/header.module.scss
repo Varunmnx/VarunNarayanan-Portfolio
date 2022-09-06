@@ -1,0 +1,75 @@
+@import "../globalstyle/variables.scss";
+
+html{
+  padding: 0;
+  margin: 0px;
+}
+body{
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+}
+root{
+  display: flex;
+
+}
+*{
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.gfg{
+  top:0px;
+  height: 100px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  background-color: aqua;
+  // &__logo{
+  //    width: 40%;
+  // }
+  &__icon{
+    height: 55px;
+    width: 42px;
+  }
+  &__navigators{
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px 200px;
+ 
+    @media only screen and (max-width: 800px) and (min-width:560px){
+      font-size: small;
+      padding: 0px 100px 0px 0px;
+     }
+    @include breakpoint(sm){
+     display: none;   
+    }
+
+    li{
+      list-style: none;
+      padding: 1rem;
+      display: block;
+      font-size: 1.2em;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+    }
+  }
+  
+  &__ham{
+    display: none; 
+   }
+  &__icon_wrapper{
+    // background-color: red;
+     margin: 20px 80px;
+     @include breakpoint(sm){
+       width: 100vw;
+       display: flex;
+       align-items: center;
+       justify-content: center
+     }
+  }
+}
+
+ 
