@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/VarunNarayanan-Portfolio/static/css/main.33fb4ee5.css",
+    "main.css": "/VarunNarayanan-Portfolio/static/css/main.96e5a61c.css",
     "main.js": "/VarunNarayanan-Portfolio/static/js/main.8c7b3420.js",
     "static/js/787.1ed0c42c.chunk.js": "/VarunNarayanan-Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/VarunBreak.png": "/VarunNarayanan-Portfolio/static/media/VarunBreak.2579b7744c52f3369f9c.png",
@@ -17,12 +17,12 @@
     "index.html": "/VarunNarayanan-Portfolio/index.html",
     "static/media/hakeiup.svg": "/VarunNarayanan-Portfolio/static/media/hakeiup.35ee768fcfde74e2c75b7b9fbd3ec218.svg",
     "static/media/suppup1.svg": "/VarunNarayanan-Portfolio/static/media/suppup1.35ee768fcfde74e2c75b7b9fbd3ec218.svg",
-    "main.33fb4ee5.css.map": "/VarunNarayanan-Portfolio/static/css/main.33fb4ee5.css.map",
+    "main.96e5a61c.css.map": "/VarunNarayanan-Portfolio/static/css/main.96e5a61c.css.map",
     "main.8c7b3420.js.map": "/VarunNarayanan-Portfolio/static/js/main.8c7b3420.js.map",
     "787.1ed0c42c.chunk.js.map": "/VarunNarayanan-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.33fb4ee5.css",
+    "static/css/main.96e5a61c.css",
     "static/js/main.8c7b3420.js"
   ]
 }
