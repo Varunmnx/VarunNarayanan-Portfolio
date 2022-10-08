@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/VarunNarayanan-Portfolio/static/css/main.d0bd3c33.css",
-    "main.js": "/VarunNarayanan-Portfolio/static/js/main.8c7b3420.js",
+    "main.css": "/VarunNarayanan-Portfolio/static/css/main.e6bc80e8.css",
+    "main.js": "/VarunNarayanan-Portfolio/static/js/main.00303b99.js",
     "static/js/787.1ed0c42c.chunk.js": "/VarunNarayanan-Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/VarunBreak.png": "/VarunNarayanan-Portfolio/static/media/VarunBreak.2579b7744c52f3369f9c.png",
     "static/media/VarunContact.png": "/VarunNarayanan-Portfolio/static/media/VarunContact.d5588bf3db3c77f5f966.png",
@@ -17,12 +17,12 @@
     "index.html": "/VarunNarayanan-Portfolio/index.html",
     "static/media/hakeiup.svg": "/VarunNarayanan-Portfolio/static/media/hakeiup.35ee768fcfde74e2c75b7b9fbd3ec218.svg",
     "static/media/suppup1.svg": "/VarunNarayanan-Portfolio/static/media/suppup1.35ee768fcfde74e2c75b7b9fbd3ec218.svg",
-    "main.d0bd3c33.css.map": "/VarunNarayanan-Portfolio/static/css/main.d0bd3c33.css.map",
-    "main.8c7b3420.js.map": "/VarunNarayanan-Portfolio/static/js/main.8c7b3420.js.map",
+    "main.e6bc80e8.css.map": "/VarunNarayanan-Portfolio/static/css/main.e6bc80e8.css.map",
+    "main.00303b99.js.map": "/VarunNarayanan-Portfolio/static/js/main.00303b99.js.map",
     "787.1ed0c42c.chunk.js.map": "/VarunNarayanan-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0bd3c33.css",
-    "static/js/main.8c7b3420.js"
+    "static/css/main.e6bc80e8.css",
+    "static/js/main.00303b99.js"
   ]
 }
