@@ -1,17 +1,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Dongle:wght@700&family=Kanit:wght@400;500;700&family=Montserrat:wght@200&family=Rubik:wght@300&display=swap');
 $kanit:'Kanit', sans-serif;
+$formGap:10px;
+$bodycolor:#305f72;
+
 
 @mixin breakpoint($point){
     @if $point==md{
         //for 670 minimum starting from 720
-       @media (min-width: 48em) {
+       @media (max-width: 840px) {
               @content;
        }
-    }   
+    } 
+
    @else if $point == sm{
       @media (max-width: 560px){
         @content
-      }  
+      }     
+   }
+  
+   @else if $point == mdu{
+      @media (min-width: 840px) {
+         @content;
+  }
    }
 
 }

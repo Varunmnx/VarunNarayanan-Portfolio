@@ -1,16 +1,22 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
-import Header from "./header/header"
-
-const root = ReactDOM.createRoot(document.getElementById('root'));
+import React from "react";
+import ReactDOM from "react-dom/client";
+import "./index.css";
+import App from "./content/App";
+import reportWebVitals from "./reportWebVitals";
+import Header from "./header/header";
+import Footer from "./footer/footer";
+import Skills from "./skills/skills";
+import { HashRouter } from "react-router-dom";
+import { BrowserRouter } from "react-router-dom";
+const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <>
+  <HashRouter>
     <Header />
     <App />
-    
+    <Skills />
+    <Footer />
+  </HashRouter>
   </>
 );
 
