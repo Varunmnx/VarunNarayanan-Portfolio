@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/VarunNarayanan-Portfolio/static/css/main.1dc2cdfc.css",
-    "main.js": "/VarunNarayanan-Portfolio/static/js/main.be3f42cf.js",
+    "main.css": "/VarunNarayanan-Portfolio/static/css/main.3295a3f8.css",
+    "main.js": "/VarunNarayanan-Portfolio/static/js/main.7ff01ef4.js",
     "static/js/787.1ed0c42c.chunk.js": "/VarunNarayanan-Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/VarunBreak.png": "/VarunNarayanan-Portfolio/static/media/VarunBreak.2579b7744c52f3369f9c.png",
     "static/media/VarunContact.png": "/VarunNarayanan-Portfolio/static/media/VarunContact.d5588bf3db3c77f5f966.png",
     "static/media/VarunStompMe.png": "/VarunNarayanan-Portfolio/static/media/VarunStompMe.1d16b2e4d1f7c37e4b9a.png",
     "static/media/VarunDjango.png": "/VarunNarayanan-Portfolio/static/media/VarunDjango.b72a18744498522ca85a.png",
+    "static/media/ecommerce.png": "/VarunNarayanan-Portfolio/static/media/ecommerce.9e0253d86b371790a5ba.png",
     "static/media/logofor.png": "/VarunNarayanan-Portfolio/static/media/logofor.bb8f4f86919646dcd0cc.png",
     "static/media/Varunav.svg": "/VarunNarayanan-Portfolio/static/media/Varunav.904d5a92c629a2f3cdd4778257612acd.svg",
     "static/media/snakeGame.png": "/VarunNarayanan-Portfolio/static/media/snakeGame.08b9188b90216a5889c9.png",
@@ -16,12 +17,12 @@
     "index.html": "/VarunNarayanan-Portfolio/index.html",
     "static/media/hakeiup.svg": "/VarunNarayanan-Portfolio/static/media/hakeiup.35ee768fcfde74e2c75b7b9fbd3ec218.svg",
     "static/media/suppup1.svg": "/VarunNarayanan-Portfolio/static/media/suppup1.35ee768fcfde74e2c75b7b9fbd3ec218.svg",
-    "main.1dc2cdfc.css.map": "/VarunNarayanan-Portfolio/static/css/main.1dc2cdfc.css.map",
-    "main.be3f42cf.js.map": "/VarunNarayanan-Portfolio/static/js/main.be3f42cf.js.map",
+    "main.3295a3f8.css.map": "/VarunNarayanan-Portfolio/static/css/main.3295a3f8.css.map",
+    "main.7ff01ef4.js.map": "/VarunNarayanan-Portfolio/static/js/main.7ff01ef4.js.map",
     "787.1ed0c42c.chunk.js.map": "/VarunNarayanan-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1dc2cdfc.css",
-    "static/js/main.be3f42cf.js"
+    "static/css/main.3295a3f8.css",
+    "static/js/main.7ff01ef4.js"
   ]
 }
